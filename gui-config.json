@@ -1,0 +1,141 @@
+{
+  "configs": [
+    {
+      "server": "",
+      "server_port": 8388,
+      "password": "",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "108.61.200.17",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "东京",
+      "timeout": 5
+    },
+    {
+      "server": "103.192.176.5",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港1",
+      "timeout": 5
+    },
+    {
+      "server": "103.192.176.3",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港2",
+      "timeout": 5
+    },
+    {
+      "server": "202.5.22.119",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国1",
+      "timeout": 5
+    },
+    {
+      "server": "202.5.22.118",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国2",
+      "timeout": 5
+    },
+    {
+      "server": "202.5.22.117",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国3",
+      "timeout": 5
+    },
+    {
+      "server": "103.86.44.10",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "韩国1",
+      "timeout": 5
+    },
+    {
+      "server": "103.86.44.100",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "韩国2",
+      "timeout": 5
+    },
+    {
+      "server": "116.251.210.135",
+      "server_port": 2024,
+      "password": "www12345",
+      "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "新加坡",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 0,
+  "global": false,
+  "enabled": false,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
